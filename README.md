@@ -4,4 +4,4 @@ Setelah itu, koneksi antar-switch dikonfigurasi melalui trunk dengan menggunakan
 
 Secara keseluruhan, praktikum ini memberikan pemahaman mengenai bagaimana VLAN bekerja dalam memisahkan jaringan, bagaimana port pada switch dipetakan ke tiap VLAN, dan bagaimana trunking memungkinkan VLAN yang sama tetap terhubung meskipun berada pada switch yang berbeda. Selain itu, penggunaan perintah seperti show vlan brief dan show interfaces trunk menjadi langkah penting dalam memverifikasi hasil konfigurasi yang telah dilakukan.
 
-Link Youtube TA PJK 3: https://youtu.be/cLAr0zSCRUY?si=F1_HW060QJ4tWm68
+Link Youtube TA PJK 3: https://youtu.be/GPvrd9CnViQ
